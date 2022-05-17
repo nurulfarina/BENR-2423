@@ -25,3 +25,4 @@ const passhash = bcrypt.hashSync(randomPass,saltRounds)
     db.close();4
   });
 });
+hello
